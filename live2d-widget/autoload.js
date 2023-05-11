@@ -1,5 +1,5 @@
 // live2d_path 参数建议使用绝对路径
-live2d_path = "https://fastly.jsdelivr.net/gh/Rvistix/live2d-widget@latest/";
+live2d_path = "live2d-widget";
 //const live2d_path = "/live2d-widget/";
 
 // 封装异步加载资源的方法
