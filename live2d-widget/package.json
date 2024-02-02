@@ -27,5 +27,8 @@
     "@rollup/pluginutils": "^5.0.1",
     "rollup": "^3.2.3",
     "terser": "^5.15.1"
+  },
+  "dependencies": {
+    "qiskit": "^0.9.0"
   }
 }
